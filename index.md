@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![Cybersecurity](https://github.com/jhguitarist1/crispy-cybersecurity/blob/main/hacker-8018474_640.png)
+
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
