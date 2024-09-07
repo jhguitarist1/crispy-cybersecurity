@@ -50,7 +50,7 @@ At work, we use Sonicwalls but I cannot justify paying for a physical Sonicwall 
 ### Wazuh SIEM
 There are a range of SIEM options out there, but I wanted something free and opensource. It's also the SIEM I implemented at my current job as I was tasked with learning more about cybersecurity practices. It has a nice feature set and decent popularity. The Wazuh team also has extensive blog posts with ways to expand on the base setup.
 
-I initially tried to do the Wazuy install on Ubuntu Server 24.04, but the method of installing Wazuh on this version of Ubuntu was more complicated than the 22.04 installer script. I ended up having one issue after another and just decided to save time and go with 22.04 instead. Ran the easy Wazuh installation script and was up and running in no time.
+I initially tried to do the Wazuh install on Ubuntu Server 24.04, but the method of installing Wazuh on this version of Ubuntu was more complicated than the 22.04 installer script. I ended up having one issue after another and just decided to save time and go with 22.04 instead. Ran the easy Wazuh installation script and was up and running in no time.
 <br />
 
 ### Windows Server & Domain
