@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 This page serves as a record of the Cybersecurity-related projects I have done as part of my employement. These projects are completed separate from my homelab configuration.
 
 # SIEM - Wazuh
