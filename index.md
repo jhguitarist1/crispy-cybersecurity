@@ -2,8 +2,6 @@
 layout: default
 ---
 
-![Cybersecurity](./images/hacker-8018474_640.png)
-
 Welcome to my project site for my Cybersecurity Lab. This site is to document how my lab is set up and what projects I have been doing in the lab. I also have [this page](./work_projects.md) which covers cybersecurity-related projects I have completed at my current job.
 <br />
 
