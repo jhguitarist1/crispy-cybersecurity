@@ -3,7 +3,7 @@ layout: default
 title: My Homelab
 ---
 
-![Homelab Header](assets/images/homelab-header.jpg)
+![Homelab Header](images/homelab-header.jpg)
 
 ## Hardware
 
