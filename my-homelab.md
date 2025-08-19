@@ -30,8 +30,15 @@ title: My Homelab
 
 ### Networking
 - **Qotom Q750G5-S08 Firewall**: Primary firewall for network running OPNsense.
+  - Intel Celeron J4125 4-Coore(4T)
+  - 8GB DDR4
+  - 128GB SSD
+  - 5x Intel I225-V 2.5Gb ports
+- **Unifi USW-24 Switch**: standard 24port gigabit switch
+  - hope to upgrade in the future to something multi-gig
   
 ## Software
   
-- **Virtualization**:
-  - **Proxmox VE**: Running on the GMKtec Mini PC
+- **Proxmox VE**: Running on the GMKtec Mini PC
+- **Unraid**: running on custom-built NAS
+- **Ubuntu Server 24.04**: running on the Docker Swarm cluster
